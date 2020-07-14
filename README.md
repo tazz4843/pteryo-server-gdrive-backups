@@ -27,4 +27,4 @@ If you want to add this script to `cron` to automate backups, be sure to pass th
 /usr/bin/python3 /path/to/backups.py --daemon
 ```
 
-That's it! If you notice any bugs: open a pull re
+That's it! If you notice any bugs: open a pull request that fixes it and I'll merge your fix.
